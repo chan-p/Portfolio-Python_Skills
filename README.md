@@ -25,4 +25,5 @@ The Instacart stakeholders are most interested in the variety of customers in th
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on June 12, 2023
 
 ## Final Products
-The entire project artifacts broken down by the following: (1) Project Management, (2) Data, (3) Scripts, (4) Analysis, (5) Sent to client have been uploaded in this project shell.
+The entire project artifacts broken down by the following: (1) Project Management, (2) Data, (3) Scripts, (4) Analysis, (5) Sent to client have been uploaded in this project shell.<br>
+**Note:** Due to the file sizes of the original data used and the data that was prepared, "(2) Data" folder and its contents were not uploaded to this project shell
