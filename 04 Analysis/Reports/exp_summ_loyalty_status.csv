@@ -1,0 +1,6 @@
+,total_ord_spend,total_ord_spend,total_ord_spend,total_ord_spend
+,count,max,mean,min
+loyalty_flag,,,,
+Loyal customer,17017,26394.9,4697.292425221837,156.0
+New customer,68746,3920.4,545.0411602129578,5.0
+Regular customer,76864,12186.6,1610.5147559325562,15.700000000000001

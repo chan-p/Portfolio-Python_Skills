@@ -1,0 +1,11 @@
+,total_ord_count,total_ord_count,total_ord_count,total_ord_count
+,count,max,mean,min
+user_preferred_shop_time,,,,
+Weekday afternoon shopper,60112,99,20.64902182592494,5
+Weekday evening shopper,27005,99,17.697907794852807,5
+Weekday morning shopper,25697,99,21.350468926333814,5
+Weekday night shopper,8290,99,17.438841978287094,5
+Weekend afternoon shopper,22094,99,15.963610029872363,5
+Weekend evening shopper,7995,99,12.823014383989994,5
+Weekend morning shopper,9025,99,18.078670360110802,5
+Weekend night shopper,2409,99,13.941054379410543,5

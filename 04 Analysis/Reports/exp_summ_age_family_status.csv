@@ -1,0 +1,11 @@
+,total_ord_spend,total_ord_spend,total_ord_spend,total_ord_spend
+,count,max,mean,min
+Age_fam_status,,,,
+Middle-aged divorced/widowed,5007,24307.1,1512.0714000399441,15.700000000000001
+Middle-aged married,70307,22696.9,1481.2743027010113,7.0
+Middle-aged single,18532,20315.1,1479.589002805957,5.0
+Senior divorced/widowed,8824,17519.6,1480.2155485040798,16.1
+Senior married,26952,26394.9,1482.2698130008905,6.800000000000001
+Young adult living with parents and siblings,7608,16048.1,1518.4714905362775,14.399999999999999
+Young adult married,17035,18436.9,1483.2996653947755,10.0
+Young adult single,8362,18883.2,1462.2213346089454,10.5

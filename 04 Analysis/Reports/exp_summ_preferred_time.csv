@@ -1,0 +1,11 @@
+,total_ord_spend,total_ord_spend,total_ord_spend,total_ord_spend
+,count,max,mean,min
+user_preferred_shop_time,,,,
+Weekday afternoon shopper,60112,26394.9,1583.904959076391,6.800000000000001
+Weekday evening shopper,27005,17519.6,1310.3355748935383,5.0
+Weekday morning shopper,25697,21509.2,1607.8036541230495,7.0
+Weekday night shopper,8290,17696.0,1415.328974668275,12.5
+Weekend afternoon shopper,22094,22595.5,1436.8982393409976,22.2
+Weekend evening shopper,7995,14378.5,1077.1408005003127,19.8
+Weekend morning shopper,9025,16957.6,1573.0027700831024,11.399999999999999
+Weekend night shopper,2409,20122.6,1242.3394769613947,16.400000000000002

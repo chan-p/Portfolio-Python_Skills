@@ -1,0 +1,7 @@
+,total_ord_count,total_ord_count,total_ord_count,total_ord_count
+,count,max,mean,min
+Pet_household,,,,
+Multi-member family Non-pet owner,111995,99,18.506540470556722,5
+Multi-member family Pet owner,9907,99,22.607752094478652,5
+Single-member family Non-pet owner,37457,99,18.510078223029073,5
+Single-member family Pet owner,3268,99,22.77050183598531,5

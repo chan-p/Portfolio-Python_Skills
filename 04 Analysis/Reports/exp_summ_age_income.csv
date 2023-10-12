@@ -1,0 +1,12 @@
+,total_ord_spend,total_ord_spend,total_ord_spend,total_ord_spend
+,count,max,mean,min
+Age_income_level,,,,
+Middle-aged High income,16493,17847.3,1628.4381919602256,44.6
+Middle-aged Low income,18256,24307.1,963.3960396581947,5.0
+Middle-aged Middle income,59097,22696.9,1602.2648882345973,15.700000000000001
+Senior High income,8561,17435.6,1604.112264922322,39.5
+Senior Low income,5376,18138.2,840.0709077380952,6.800000000000001
+Senior Middle income,21839,26394.9,1591.7638948669812,13.0
+Young adult High income,230,11680.4,2097.8282608695654,107.1
+Young adult Low income,10033,18436.9,1180.9596531446227,10.0
+Young adult Middle income,22742,18883.2,1614.4827631694661,41.2
